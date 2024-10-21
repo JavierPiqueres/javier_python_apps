@@ -38,7 +38,7 @@ pasta = [{'ingrediente': 'pasta', 'cantidad': 1}, {'ingrediente': 'salsa pasta',
 
 #################### Recetas (fin) ####################
 
-#Menu
+#Lista de la compra
 
 menusemanal = arroz_horno + arroz_anacardos + revuelto_espinacas_tomate
 
